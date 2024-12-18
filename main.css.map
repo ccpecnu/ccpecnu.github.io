@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/jeff/Documents/LocalFiles/本地知识库/15他人/周宁宁老师/Website/web",
+	"sourceRoot": "/Users/jeff/Documents/LocalFiles/本地知识库/15他人/周宁宁老师/Website/web_edit",
 	"sources": [
 		"node_modules/@thulite/core/assets/scss/app.scss",
 		"node_modules/bootstrap/scss/_functions.scss",
