@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>研究招募 on PsyLab</title>
+    <link>/work/recruit/</link>
+    <description>Recent content in 研究招募 on PsyLab</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Thulite</copyright>
+    <lastBuildDate>Thu, 07 Sep 2023 16:13:18 +0200</lastBuildDate>
+    <atom:link href="/work/recruit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>研究招募</title>
+      <link>/work/recruit/example/</link>
+      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
+      <guid>/work/recruit/example/</guid>
+      <description>&lt;p&gt;Reference pages are ideal for outlining how things work in terse and clear terms. Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what your documenting.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

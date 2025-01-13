@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>哀伤工具 on PsyLab</title>
+    <link>/tools/</link>
+    <description>Recent content in 哀伤工具 on PsyLab</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Thulite</copyright>
+    <atom:link href="/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>哀伤阶段</title>
+      <link>/tools/%E5%93%80%E4%BC%A4%E9%98%B6%E6%AE%B5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tools/%E5%93%80%E4%BC%A4%E9%98%B6%E6%AE%B5/</guid>
+      <description>哀伤阶段</description>
+    </item>
+    <item>
+      <title>工作手册</title>
+      <link>/tools/%E5%B7%A5%E4%BD%9C%E6%89%8B%E5%86%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tools/%E5%B7%A5%E4%BD%9C%E6%89%8B%E5%86%8C/</guid>
+      <description>可以写一段话来介绍本文</description>
+    </item>
+    <item>
+      <title>哀伤工作手册</title>
+      <link>/tools/%E5%93%80%E4%BC%A4%E5%B7%A5%E4%BD%9C%E6%89%8B%E5%86%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tools/%E5%93%80%E4%BC%A4%E5%B7%A5%E4%BD%9C%E6%89%8B%E5%86%8C/</guid>
+      <description>可以写一段话来介绍本文</description>
+    </item>
+    <item>
+      <title>焦虑工作手册</title>
+      <link>/tools/%E7%84%A6%E8%99%91%E5%B7%A5%E4%BD%9C%E6%89%8B%E5%86%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tools/%E7%84%A6%E8%99%91%E5%B7%A5%E4%BD%9C%E6%89%8B%E5%86%8C/</guid>
+      <description>可以写一段话来介绍本文</description>
+    </item>
+    <item>
+      <title>睡眠工作手册</title>
+      <link>/tools/%E7%9D%A1%E7%9C%A0%E5%B7%A5%E4%BD%9C%E6%89%8B%E5%86%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tools/%E7%9D%A1%E7%9C%A0%E5%B7%A5%E4%BD%9C%E6%89%8B%E5%86%8C/</guid>
+      <description>可以写一段话来介绍本文</description>
+    </item>
+    <item>
+      <title>节假日工作手册</title>
+      <link>/tools/%E8%8A%82%E5%81%87%E6%97%A5%E5%B7%A5%E4%BD%9C%E6%89%8B%E5%86%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tools/%E8%8A%82%E5%81%87%E6%97%A5%E5%B7%A5%E4%BD%9C%E6%89%8B%E5%86%8C/</guid>
+      <description>可以写一段话来介绍本文</description>
+    </item>
+    <item>
+      <title>哀伤书籍</title>
+      <link>/tools/%E5%93%80%E4%BC%A4%E4%B9%A6%E7%B1%8D/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tools/%E5%93%80%E4%BC%A4%E4%B9%A6%E7%B1%8D/</guid>
+      <description>可以写一段话来介绍本文</description>
+    </item>
+    <item>
+      <title>哀伤与正念</title>
+      <link>/tools/%E5%93%80%E4%BC%A4%E4%B8%8E%E6%AD%A3%E5%BF%B5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tools/%E5%93%80%E4%BC%A4%E4%B8%8E%E6%AD%A3%E5%BF%B5/</guid>
+      <description>哀伤阶段</description>
+    </item>
+  </channel>
+</rss>

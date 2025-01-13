@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>团队新闻 on PsyLab</title>
+    <link>/news/</link>
+    <description>Recent content in 团队新闻 on PsyLab</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Thulite</copyright>
+    <lastBuildDate>Thu, 07 Sep 2023 16:27:22 +0200</lastBuildDate>
+    <atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>实验室举行开放日活动</title>
+      <link>/news/example/</link>
+      <pubDate>Sun, 01 Dec 2024 16:27:22 +0200</pubDate>
+      <guid>/news/example/</guid>
+      <description>12月1日实验室开展了开放活动</description>
+    </item>
+    <item>
+      <title>实验室更新实验管理系统，提升数据共享效率</title>
+      <link>/news/example2/</link>
+      <pubDate>Thu, 07 Sep 2023 16:27:22 +0200</pubDate>
+      <guid>/news/example2/</guid>
+      <description>为优化内部研究流程，实验室近日完成了实验管理系统的升级</description>
+    </item>
+  </channel>
+</rss>
